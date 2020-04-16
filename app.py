@@ -2,6 +2,7 @@
 #import para limpiar consola
 import os
 
+
 phrase = "THERE ONCE WAS A MAN NAMED"
 character_name = "Jhon Cena"
 character_age = "35"
